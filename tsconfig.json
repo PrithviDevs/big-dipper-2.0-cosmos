@@ -75,7 +75,7 @@
       "@tests/utils": [
         "tests/utils"
       ]
-    }
+    },
   },
   "include": [
     "next-env.d.ts",

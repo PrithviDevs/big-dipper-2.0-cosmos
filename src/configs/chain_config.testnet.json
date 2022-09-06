@@ -1,24 +1,24 @@
 {
-  "title": "Desmos Block Explorer",
-  "network": "morpheus-apollo-2",
-  "icon": "https://raw.githubusercontent.com/forbole/big-dipper-assets/master/desmos/icon.svg?sanitize=true",
+  "title": " OmniFlix Block Explorer",
+  "network": "flixnet-4",
+  "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/omniflixhub/images/flix.png?sanitize=true",
   "logo": {
-    "default": "https://raw.githubusercontent.com/forbole/big-dipper-assets/master/desmos/logo.svg?sanitize=true"
+    "default": "https://omniflix.network/static/media/nav_logo.37c35deb.svg?sanitize=true"
   },
   "prefix": {
-    "consensus": "desmosvalcons",
-    "validator": "desmosvaloper",
-    "account": "desmos"
+    "consensus": "omniflixvalcons",
+    "validator": "omniflixvaloper",
+    "account": "omniflix"
   },
   "genesis": {
     "time": "2021-07-13T08:00:00",
     "height": 1
   },
-  "primaryTokenUnit": "udaric",
-  "votingPowerTokenUnit": "udaric",
+  "primaryTokenUnit": "uflix",
+  "votingPowerTokenUnit": "uflix",
   "tokenUnits": {
-    "udaric": {
-      "display": "daric",
+    "uflix": {
+      "display": "flix",
       "exponent": 6
     }
   },
